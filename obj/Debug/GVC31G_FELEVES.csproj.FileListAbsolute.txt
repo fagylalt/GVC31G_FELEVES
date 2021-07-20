@@ -1,0 +1,7 @@
+C:\Users\kalvi\source\repos\GVC31G_FELEVES\GVC31G_FELEVES\bin\Debug\GVC31G_FELEVES.exe.config
+C:\Users\kalvi\source\repos\GVC31G_FELEVES\GVC31G_FELEVES\bin\Debug\GVC31G_FELEVES.exe
+C:\Users\kalvi\source\repos\GVC31G_FELEVES\GVC31G_FELEVES\bin\Debug\GVC31G_FELEVES.pdb
+C:\Users\kalvi\source\repos\GVC31G_FELEVES\GVC31G_FELEVES\obj\Debug\GVC31G_FELEVES.csprojAssemblyReference.cache
+C:\Users\kalvi\source\repos\GVC31G_FELEVES\GVC31G_FELEVES\obj\Debug\GVC31G_FELEVES.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\source\repos\GVC31G_FELEVES\GVC31G_FELEVES\obj\Debug\GVC31G_FELEVES.exe
+C:\Users\kalvi\source\repos\GVC31G_FELEVES\GVC31G_FELEVES\obj\Debug\GVC31G_FELEVES.pdb
